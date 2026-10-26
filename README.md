@@ -9,7 +9,7 @@ Desenvolvedor Full Stack júnior em Criciúma (SC). Crio sites e sistemas web, d
 - **[Meu Prédio](https://github.com/guilhermedemedeirosrabelo86-maker/meu-predio)**: app para condomínios (PWA) com backend em Python e SQLite. Tem login com perfis (síndico, morador e portaria), reservas, prestação de contas, visitas por QR Code e testes automatizados da API.
 - **Central de Brindes**: sistema interno em produção na Anjo Tintas para controlar estoque de brindes, envios para representantes e pedidos da equipe (Firebase Auth, Cloud Firestore e Cloudflare). *Código privado.*
 - **[Portfólio](https://github.com/guilhermedemedeirosrabelo86-maker/portfolio)**: site pessoal com Next.js, TypeScript e Tailwind CSS, com testes.
-- **[GR Digital](https://guilhermedemedeirosrabelo86-maker.github.io/GR-Digital/)**: site do meu negócio de criação de sites para empresas locais ([código](https://github.com/guilhermedemedeirosrabelo86-maker/GR-Digital)).
+- **[GR Digital](https://www.sitesgrdigital.com.br)**: site do meu negócio de criação de sites para pequenos negócios, com prévia grátis, montador de orçamento e demos de clínica, barbearia e agenda online. *Código privado.*
 
 ## 🌐 Sites que criei para clientes
 
