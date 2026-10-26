@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Guilherme 👋
 
-<!--
-**guilhermedemedeirosrabelo86-maker/guilhermedemedeirosrabelo86-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack júnior em Criciúma (SC). Crio sites e sistemas web, do layout ao banco de dados, com foco em resolver problemas reais de pequenos negócios.
 
-Here are some ideas to get you started:
+**Tecnologias:** JavaScript · TypeScript · React · Next.js · Tailwind CSS · Python · SQLite · Firebase · HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em destaque
+
+- **[Meu Prédio](https://github.com/guilhermedemedeirosrabelo86-maker/meu-predio)** – App para condomínios (PWA) com backend em Python e SQLite: login com perfis (síndico, morador e portaria), reservas, prestação de contas, visitas por QR Code e testes automatizados da API.
+- **Central de Brindes** – Sistema interno em produção na Anjo Tintas para controlar estoque de brindes, envios para representantes e pedidos da equipe (Firebase Auth, Cloud Firestore e Cloudflare). *Código privado.*
+- **[Portfólio](https://github.com/guilhermedemedeirosrabelo86-maker/PORTIFOLIO)** – Site pessoal com Next.js, TypeScript e Tailwind CSS, com testes.
+- **[GR Digital](https://github.com/guilhermedemedeirosrabelo86-maker/GR-Digital)** – Site do meu negócio de criação de sites para empresas locais, como barbearia, estética automotiva e ateliê.
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/guilherme-de-medeiros-rabelo-rabelo-807226395/)
