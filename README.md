@@ -11,12 +11,6 @@ Desenvolvedor Full Stack júnior em Criciúma (SC). Crio sites e sistemas web, d
 - **[Portfólio](https://github.com/guilhermedemedeirosrabelo86-maker/portfolio)**: site pessoal com Next.js, TypeScript e Tailwind CSS, com testes.
 - **[GR Digital](https://www.sitesgrdigital.com.br)**: site do meu negócio de criação de sites para pequenos negócios, com prévia grátis, montador de orçamento e demos de clínica, barbearia e agenda online. *Código privado.*
 
-## 🌐 Sites que criei para clientes
-
-| Projeto | Site no ar | Código |
-|---|---|---|
-| Emerson's Barbearia | [Ver site](https://guilhermedemedeirosrabelo86-maker.github.io/EMERSON-BARBEARIA/) | [Repositório](https://github.com/guilhermedemedeirosrabelo86-maker/EMERSON-BARBEARIA) |
-| Detailing.br (estética automotiva) | [Ver site](https://guilhermedemedeirosrabelo86-maker.github.io/ESTETICA-AUTO/) | [Repositório](https://github.com/guilhermedemedeirosrabelo86-maker/ESTETICA-AUTO) |
 
 ## 🎓 Faculdade
 
