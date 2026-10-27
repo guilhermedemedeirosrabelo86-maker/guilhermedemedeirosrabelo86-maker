@@ -2,7 +2,7 @@
 
 Desenvolvedor Full Stack júnior em Criciúma (SC). Crio sites e sistemas web, do layout ao banco de dados, com foco em resolver problemas reais de pequenos negócios.
 
-**Tecnologias:** JavaScript · TypeScript · React · Next.js · Tailwind CSS · Python · SQLite · Firebase · HTML/CSS
+**Tecnologias:** JavaScript · React · Python · SQLite · Firebase · HTML/CSS
 
 ## 🚀 Projetos em destaque
 
